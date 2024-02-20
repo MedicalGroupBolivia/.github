@@ -39,7 +39,7 @@
             - programacion
             Cuando la persona se da de baja ( post-ocupacional.)
 
-## `Definir los procedimientos para cumplir los examenes`
+## Definir los procedimientos para cumplir los examenes
     son codificados y autorizados.
 
 No poliza -  sino acta de afiliacion de numero patronal ( alta de numero patronal ).
