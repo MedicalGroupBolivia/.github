@@ -1,3 +1,4 @@
+# Cotización Medical Group
 
 - `Gestión de Pacientes`: Registro y seguimiento de la información de los pacientes, historiales médicos, citas, etc. `(SI)`
 
@@ -37,12 +38,13 @@
             - revision medica
             - programacion
             Cuando la persona se da de baja ( post-ocupacional.)
-    # `Definir los procedimientos para cumplir los examenes`
+
+## `Definir los procedimientos para cumplir los examenes`
     son codificados y autorizados.
 
 No poliza -  sino acta de afiliacion de numero patronal ( alta de numero patronal ).
 
-# App mobile de cara al cliente.
+## App mobile de cara al cliente.
 
 - Login y registro de usuario.
 
